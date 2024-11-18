@@ -1,0 +1,32 @@
+{
+    "config": {
+        "max_responses": 5,
+        "name": "Krzhemelik",
+        "time_update": 1,
+        "version": "0.1"
+    },
+    "document_id": {
+        "../resources/file001.txt": 1,
+        "../resources/file002.txt": 2,
+        "../resources/file003.txt": 3,
+        "../resources/file004.txt": 4,
+        "../resources/file005.txt": 5,
+        "../resources/file006.txt": 6,
+        "../resources/file007.txt": 7,
+        "../resources/file008.txt": 8,
+        "../resources/file009.txt": 9,
+        "../resources/file010.txt": 10
+    },
+    "files": [
+        "../resources/file001.txt",
+        "../resources/file002.txt",
+        "../resources/file003.txt",
+        "../resources/file004.txt",
+        "../resources/file005.txt",
+        "../resources/file006.txt",
+        "../resources/file007.txt",
+        "../resources/file008.txt",
+        "../resources/file009.txt",
+        "../resources/file010.txt"
+    ]
+}
